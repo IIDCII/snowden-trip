@@ -1,7 +1,7 @@
 # Snowdon Trip — 21–23 Aug 2026
-**Cost pp:** £40 campsite · £30 fuel · £15 food = **£85**
-**Group:** 12 (5F/7M) · Cars: Oscar, Dario, James, AJ (20 seats)
-**Campsite:** [Cae Du Campsite](https://www.campsites.co.uk/search/campsites-in-wales/gwynedd/beddgelert/cae-du-campsite?booking-accommodation-type=30&arrival-date=21/08/2026&booking-nights=2&booking-nights-flexibility=1&arrival-flexibility=3&booking-adults=1&availability-search=69998258)
+- **Cost pp:** £40 campsite · £30 fuel · £15 food = **£85**
+- **Group:** 12 (5F/7M) · Cars: Oscar, Dario, James, AJ (20 seats)
+- **Campsite:** [Cae Du Campsite](https://www.campsites.co.uk/search/campsites-in-wales/gwynedd/beddgelert/cae-du-campsite?booking-accommodation-type=30&arrival-date=21/08/2026&booking-nights=2&booking-nights-flexibility=1&arrival-flexibility=3&booking-adults=1&availability-search=69998258)
 
 ## Itinerary
 | Day | Time | Plan |

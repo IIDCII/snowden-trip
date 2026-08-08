@@ -12,8 +12,8 @@
 | **Sat 22nd** | 11am | Leave for Pen y Pass, start hike 11:30am |
 | | 11:30am-4pm | route either [miners' track](https://www.alltrails.com/en-gb/trail/wales/gwynedd/yr-wyddfa-snowdon-via-miner-s-track?sh=rlifph) or harder route [Crib Goch](https://www.alltrails.com/en-gb/trail/wales/gwynedd/crib-goch-walk?sh=rlifph) |
 | | 3–4pm | Summit |
-| | 4-9:30 | taking the miners' route down |
-| | 8–9:30pm | Descend, back at camp |
+| | 4-9:30pm | taking the miners' route down |
+| | 8–9:30pm | back at base, driving back to camp |
 | **Sun 23rd** | AM | Pack up & head home |
 
 Fri: Meetup 08:30 → Depart 10:00 → Aldi 16:30-18:00 → Camp 20:00 → Setup

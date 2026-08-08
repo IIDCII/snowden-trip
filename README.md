@@ -10,7 +10,9 @@
 | | ~4:30–6pm | [Aldi Dolgellau](https://maps.app.goo.gl/N5BoAnCtWLd9fea2A) — supplies |
 | | 8–11pm | Arrive campsite, set up |
 | **Sat 22nd** | 11am | Leave for Pen y Pass, start hike 11:30am |
+| | 11:30am-4pm | route either [miners' track](https://www.alltrails.com/en-gb/trail/wales/gwynedd/yr-wyddfa-snowdon-via-miner-s-track?sh=rlifph) or harder route [Crib Goch](https://www.alltrails.com/en-gb/trail/wales/gwynedd/crib-goch-walk?sh=rlifph) |
 | | 3–4pm | Summit |
+| | 4-9:30 | taking the miners' route down |
 | | 8–9:30pm | Descend, back at camp |
 | **Sun 23rd** | AM | Pack up & head home |
 

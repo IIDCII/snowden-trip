@@ -22,7 +22,7 @@
 
 # what we need
 ## communal/shared
-- sleeping bags - 11/11 (please wash your musty ahh bags)
+- sleeping bags - 11/12 (please wash your musty ahh bags)
 - floor mats - 5/11
 - tents (how many they can hold) - 21/11 (1,1,1,2,2,2,6,6)
 ## self

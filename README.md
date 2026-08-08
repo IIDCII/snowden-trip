@@ -1,55 +1,121 @@
-# premise
-## coming
-- coming - 12 people - 5 Female 7 Male
-- cars - oscar, dario, james, aj (20 seats total)
-- campsite - [Cae Du Campsite](https://www.campsites.co.uk/search/campsites-in-wales/gwynedd/beddgelert/cae-du-campsite?booking-accommodation-type=30&arrival-date=21/08/2026&booking-nights=2&booking-nights-flexibility=1&arrival-flexibility=3&booking-adults=1&availability-search=69998258)
-# chronological order + route
-- Friday 21st Aug
-1. [meetup point](https://maps.app.goo.gl/wnz1AxEbWqKWvZmA9) meetup for 8:30am leave for 10am
-3. drive - 4:30 - 5:40hrs
-4. arrival - 4:30 - 6pm at [Dolgellau Town Aldi](https://maps.app.goo.gl/N5BoAnCtWLd9fea2A), get supplies n shit
-5. arrive at [campsite](https://www.campsites.co.uk/search/campsites-in-wales/gwynedd/beddgelert/cae-du-campsite?booking-accommodation-type=30&arrival-date=21/08/2026&booking-nights=2&booking-nights-flexibility=1&arrival-flexibility=3&booking-adults=1&availability-search=69998258) at 8pm
-6. set up 8-11, admin
-- Saturday 22nd Aug
-1. 11am leave the campsite to go up Snowden 
-2. 11:30am drive to pen y pass and start the hike
-3. 3-4pm get to the top
-4. 8-9pm get back down
-5. 9:30 get back to the campsite
-- Sunday
-- pack up in the morning
-- do whatever then leave
+# Snowdon Trip — 21–23 August 2026
 
-# what we need
-## communal/shared
-- sleeping bags - 11/12 (please wash your musty ahh bags)
-- floor mats - 5/11
-- tents (how many they can hold) - 21/11 (1,1,1,2,2,2,6,6)
-## self
-### clothing
-- hiking shoes - self allocate
-- waterproof jacket - self allocate
-- comfortable clothing layers - self allocate
-- headlamp
-### essentials
-- water bottles (~1.5L) - self allocate
-- power banks + cables - self allocate
-- snacks + food - self allocate
-- bin liners - self allocate
-### maintainance
-- towel + soap bar
-- tissue
-- spf
-- tooth brush + toothpaste
-## optional
-- stool
-- cooker
-- loud
-- games
-## recommendations
-- for self allocated can look on vinted
-- food
-	- bars + dehydrated fruit
-	- electrolytes any form
-	- utensils + containers
-	- not anything that can expire please
+## Pricing
+
+| Item      | Cost (pp) |
+|-----------|-----------|
+| Campsite  | £40       |
+| Fuel      | £30       |
+| Food      | £15       |
+| **Total** | **£85**   |
+
+## Group
+
+| Detail        | Info |
+|---------------|------|
+| Attendees     | 12 people (5 Female, 7 Male) |
+| Drivers/Cars  | Oscar, Dario, James, AJ (20 seats total) |
+| Campsite      | [Cae Du Campsite](https://www.campsites.co.uk/search/campsites-in-wales/gwynedd/beddgelert/cae-du-campsite?booking-accommodation-type=30&arrival-date=21/08/2026&booking-nights=2&booking-nights-flexibility=1&arrival-flexibility=3&booking-adults=1&availability-search=69998258) |
+
+## Itinerary
+
+### Friday 21st August
+
+| Time         | Activity |
+|--------------|----------|
+| 8:30am       | Meet at [meetup point](https://maps.app.goo.gl/wnz1AxEbWqKWvZmA9) |
+| 10:00am      | Leave for Wales |
+| 10:00am–2:30/3:30pm | Drive (4.5–5.5 hrs) |
+| 4:30–6:00pm  | Arrive at [Dolgellau Town Aldi](https://maps.app.goo.gl/N5BoAnCtWLd9fea2A) — get supplies |
+| 8:00pm       | Arrive at [campsite](https://www.campsites.co.uk/search/campsites-in-wales/gwynedd/beddgelert/cae-du-campsite?booking-accommodation-type=30&arrival-date=21/08/2026&booking-nights=2&booking-nights-flexibility=1&arrival-flexibility=3&booking-adults=1&availability-search=69998258) |
+| 8:00–11:00pm | Set up camp, admin |
+
+### Saturday 22nd August
+
+| Time        | Activity |
+|-------------|----------|
+| 11:00am     | Leave campsite for Snowdon |
+| 11:30am     | Drive to Pen y Pass, start hike |
+| 3:00–4:00pm | Reach the summit |
+| 8:00–9:00pm | Back down |
+| 9:30pm      | Back at campsite |
+
+### Sunday 23rd August
+
+| Time    | Activity |
+|---------|----------|
+| Morning | Pack up |
+| Later   | Free time, then head home |
+
+### Route Timeline
+Fri 08:30 ── Meetup point
+│
+10:00 ── Depart
+│ (drive ~4.5-5.5 hrs)
+│
+16:30-18:00 ── Dolgellau Aldi (supplies)
+│
+20:00 ── Arrive campsite
+│
+20:00-23:00 ── Set up / admin
+
+Sat 11:00 ── Leave campsite
+│
+11:30 ── Drive to Pen y Pass, start hike
+│
+15:00-16:00 ── Summit
+│
+20:00-21:00 ── Descend complete
+│
+21:30 ── Back at campsite
+
+Sun ── Pack up ── Depart
+
+## Gear — Communal / Shared
+
+| Item         | Provided / Needed |
+|--------------|--------------------|
+| Sleeping bags | 11 / 12 (please wash your musty bags) |
+| Floor mats    | 5 / 11 |
+| Tents (capacity) | 21 / 11 — sizes: 1, 1, 1, 2, 2, 2, 6, 6 |
+
+## Gear — Self (Self-Allocate)
+
+### Clothing
+
+- Hiking shoes
+- Waterproof jacket
+- Comfortable clothing layers
+- Headlamp
+
+### Essentials
+
+- Water bottles (~1.5L)
+- Power banks + cables
+- Snacks + food
+- Bin liners
+- Plasters
+
+### Maintenance
+
+- Towel + soap bar
+- Tissue
+- SPF
+- Toothbrush + toothpaste
+
+## Gear — Optional
+
+- Stool
+- Cooker
+- Speaker
+- Games
+- Binoculars
+
+## Recommendations
+
+- For self-allocated items, check Vinted
+- Food suggestions:
+  - Bars + dehydrated fruit
+  - Electrolytes (any form)
+  - Utensils + containers
+  - Nothing that can expire, please

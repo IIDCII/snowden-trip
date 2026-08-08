@@ -26,6 +26,6 @@ Sun: Pack up → Leave
 | Floor mats | 5/11 |
 | Tents (capacity) | 21/11 — sizes 1,1,1,2,2,2,6,6 |
 
-**Self-allocate:** hiking shoes, waterproof jacket, layers, headlamp, water bottle (~1.5L), power bank + cable, snacks, bin liners, plasters, towel + soap, tissue, SPF, toothbrush/paste
-**Optional:** stool, cooker, speaker, games, binoculars
-**Tips:** check Vinted for self-allocated gear; food should be non-expiring (bars, dehydrated fruit, electrolytes, utensils/containers)
+- **Self-allocate:** hiking shoes, waterproof jacket, layers, headlamp, water bottle (~1.5L), power bank + cable, snacks, bin liners, plasters, towel + soap, tissue, SPF, toothbrush/paste
+- **Optional:** stool, cooker, speaker, games, binoculars, loud
+- **Tips:** check Vinted for self-allocated gear; food should be non-expiring (bars, dehydrated fruit, electrolytes, utensils/containers)

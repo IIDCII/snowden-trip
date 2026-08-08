@@ -45,6 +45,7 @@
 - stool
 - cooker
 - loud
+- games
 ## recommendations
 - for self allocated can look on vinted
 - food

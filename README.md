@@ -1,13 +1,11 @@
 # premise
 ## coming
-- 12 people 5 female 
-- coming - 11 people - 4 Female 7 Male (potentially 15)
-- cars - oscar, dario, james, a
-- campsite - TBD
-- Location - Dolgellau, Eldon square, pen y pass, pyg track, crib goch, Snowdon, 
+- coming - 12 people - 5 Female 7 Male
+- cars - oscar, dario, james, aj (20 seats total)
+- campsite - [Cae Du Campsite](https://www.campsites.co.uk/search/campsites-in-wales/gwynedd/beddgelert/cae-du-campsite?booking-accommodation-type=30&arrival-date=21/08/2026&booking-nights=2&booking-nights-flexibility=1&arrival-flexibility=3&booking-adults=1&availability-search=69998258)
 # chronological order + route
 - Friday 21st Aug
-1. [meetup point](https://maps.app.goo.gl/wnz1AxEbWqKWvZmA9) time - 10am
+1. [meetup point](https://maps.app.goo.gl/wnz1AxEbWqKWvZmA9) meetup for 8:30pm leave for 10am
 2. drive - 4:30 - 5:40hrs
 3. arrival - 4:30 - 6pm at [Dolgellau Town Aldi](https://maps.app.goo.gl/N5BoAnCtWLd9fea2A), get supplies n shit
 4. arrive at [campsite](https://www.campsites.co.uk/search/campsites-in-wales/gwynedd/beddgelert/cae-du-campsite?booking-accommodation-type=30&arrival-date=21/08/2026&booking-nights=2&booking-nights-flexibility=1&arrival-flexibility=3&booking-adults=1&availability-search=69998258) at 8pm
